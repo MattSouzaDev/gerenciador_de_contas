@@ -1,0 +1,6 @@
+valor,descricao,vencimento,tipo,status
+200.00,aluguel,2025-10-20,True,True
+200.00,agua,2025-10-20,True,False
+300.00,compras,2025-10-18,True,True
+300.00,ferias,2025-10-26,False,False
+9.00,teste,2025-10-20,False,False
