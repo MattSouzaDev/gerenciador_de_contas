@@ -9,8 +9,8 @@ Permite adicionar contas, listar, marcar como pagas e visualizar totais diretame
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-contas.git
-cd gerenciador-contas
+git clone https://github.com/MattSouzaDev/gerenciador_de_contas.git
+cd gerenciador_de_contas
 
 2. Criar e ativar um ambiente virtual (opcional, mas recomendado)
 
